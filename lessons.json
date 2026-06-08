@@ -1,0 +1,1100 @@
+[
+ {
+  "id": 1,
+  "title": "День 1",
+  "theme": "Базовые существительные",
+  "phase": 1,
+  "words": [
+   {
+    "w": "time",
+    "ipa": "/taɪm/",
+    "ru": "время",
+    "ex": "Do you have time?",
+    "exRu": "У тебя есть время?"
+   },
+   {
+    "w": "people",
+    "ipa": "/ˈpiːpl/",
+    "ru": "люди",
+    "ex": "Many people came.",
+    "exRu": "Пришло много людей."
+   },
+   {
+    "w": "year",
+    "ipa": "/jɪə(r)/",
+    "ru": "год",
+    "ex": "Last year was hard.",
+    "exRu": "Прошлый год был тяжёлым."
+   },
+   {
+    "w": "way",
+    "ipa": "/weɪ/",
+    "ru": "путь, способ",
+    "ex": "This is the best way.",
+    "exRu": "Это лучший способ."
+   },
+   {
+    "w": "day",
+    "ipa": "/deɪ/",
+    "ru": "день",
+    "ex": "Have a nice day.",
+    "exRu": "Хорошего дня."
+   },
+   {
+    "w": "man",
+    "ipa": "/mæn/",
+    "ru": "мужчина, человек",
+    "ex": "The man is here.",
+    "exRu": "Этот мужчина здесь."
+   },
+   {
+    "w": "thing",
+    "ipa": "/θɪŋ/",
+    "ru": "вещь",
+    "ex": "I need one thing.",
+    "exRu": "Мне нужна одна вещь."
+   },
+   {
+    "w": "woman",
+    "ipa": "/ˈwʊmən/",
+    "ru": "женщина",
+    "ex": "The woman smiled.",
+    "exRu": "Женщина улыбнулась."
+   },
+   {
+    "w": "life",
+    "ipa": "/laɪf/",
+    "ru": "жизнь",
+    "ex": "Life is good.",
+    "exRu": "Жизнь хороша."
+   },
+   {
+    "w": "child",
+    "ipa": "/tʃaɪld/",
+    "ru": "ребёнок",
+    "ex": "The child is sleeping.",
+    "exRu": "Ребёнок спит."
+   },
+   {
+    "w": "world",
+    "ipa": "/wɜːld/",
+    "ru": "мир",
+    "ex": "The world is big.",
+    "exRu": "Мир большой."
+   },
+   {
+    "w": "school",
+    "ipa": "/skuːl/",
+    "ru": "школа",
+    "ex": "I go to school.",
+    "exRu": "Я хожу в школу."
+   },
+   {
+    "w": "family",
+    "ipa": "/ˈfæməli/",
+    "ru": "семья",
+    "ex": "My family is small.",
+    "exRu": "Моя семья небольшая."
+   },
+   {
+    "w": "student",
+    "ipa": "/ˈstjuːdnt/",
+    "ru": "студент",
+    "ex": "She is a student.",
+    "exRu": "Она студентка."
+   },
+   {
+    "w": "group",
+    "ipa": "/ɡruːp/",
+    "ru": "группа",
+    "ex": "We work in a group.",
+    "exRu": "Мы работаем в группе."
+   },
+   {
+    "w": "country",
+    "ipa": "/ˈkʌntri/",
+    "ru": "страна",
+    "ex": "It is a big country.",
+    "exRu": "Это большая страна."
+   },
+   {
+    "w": "problem",
+    "ipa": "/ˈprɒbləm/",
+    "ru": "проблема",
+    "ex": "We have a problem.",
+    "exRu": "У нас есть проблема."
+   },
+   {
+    "w": "hand",
+    "ipa": "/hænd/",
+    "ru": "рука",
+    "ex": "Give me your hand.",
+    "exRu": "Дай мне руку."
+   },
+   {
+    "w": "part",
+    "ipa": "/pɑːt/",
+    "ru": "часть",
+    "ex": "It is a part of it.",
+    "exRu": "Это часть этого."
+   },
+   {
+    "w": "place",
+    "ipa": "/pleɪs/",
+    "ru": "место",
+    "ex": "This is a nice place.",
+    "exRu": "Это приятное место."
+   },
+   {
+    "w": "case",
+    "ipa": "/keɪs/",
+    "ru": "случай",
+    "ex": "In this case, wait.",
+    "exRu": "В этом случае подожди."
+   },
+   {
+    "w": "week",
+    "ipa": "/wiːk/",
+    "ru": "неделя",
+    "ex": "See you next week.",
+    "exRu": "Увидимся на следующей неделе."
+   },
+   {
+    "w": "company",
+    "ipa": "/ˈkʌmpəni/",
+    "ru": "компания",
+    "ex": "It is a big company.",
+    "exRu": "Это большая компания."
+   },
+   {
+    "w": "system",
+    "ipa": "/ˈsɪstəm/",
+    "ru": "система",
+    "ex": "This is a new system.",
+    "exRu": "Это новая система."
+   },
+   {
+    "w": "number",
+    "ipa": "/ˈnʌmbə(r)/",
+    "ru": "число, номер",
+    "ex": "What is your number?",
+    "exRu": "Какой у тебя номер?"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "День 2",
+  "theme": "Базовые глаголы",
+  "phase": 1,
+  "words": [
+   {
+    "w": "be",
+    "ipa": "/biː/",
+    "ru": "быть",
+    "ex": "I want to be happy.",
+    "exRu": "Я хочу быть счастливым."
+   },
+   {
+    "w": "have",
+    "ipa": "/hæv/",
+    "ru": "иметь",
+    "ex": "I have a car.",
+    "exRu": "У меня есть машина."
+   },
+   {
+    "w": "do",
+    "ipa": "/duː/",
+    "ru": "делать",
+    "ex": "What do you do?",
+    "exRu": "Чем ты занимаешься?"
+   },
+   {
+    "w": "say",
+    "ipa": "/seɪ/",
+    "ru": "говорить",
+    "ex": "Say it again.",
+    "exRu": "Скажи это ещё раз."
+   },
+   {
+    "w": "get",
+    "ipa": "/ɡet/",
+    "ru": "получать",
+    "ex": "I get a letter.",
+    "exRu": "Я получаю письмо."
+   },
+   {
+    "w": "make",
+    "ipa": "/meɪk/",
+    "ru": "делать, создавать",
+    "ex": "Make a plan.",
+    "exRu": "Составь план."
+   },
+   {
+    "w": "go",
+    "ipa": "/ɡəʊ/",
+    "ru": "идти, ехать",
+    "ex": "Let us go home.",
+    "exRu": "Пойдём домой."
+   },
+   {
+    "w": "know",
+    "ipa": "/nəʊ/",
+    "ru": "знать",
+    "ex": "I know the answer.",
+    "exRu": "Я знаю ответ."
+   },
+   {
+    "w": "take",
+    "ipa": "/teɪk/",
+    "ru": "брать",
+    "ex": "Take this book.",
+    "exRu": "Возьми эту книгу."
+   },
+   {
+    "w": "see",
+    "ipa": "/siː/",
+    "ru": "видеть",
+    "ex": "I see you.",
+    "exRu": "Я вижу тебя."
+   },
+   {
+    "w": "come",
+    "ipa": "/kʌm/",
+    "ru": "приходить",
+    "ex": "Come here.",
+    "exRu": "Иди сюда."
+   },
+   {
+    "w": "think",
+    "ipa": "/θɪŋk/",
+    "ru": "думать",
+    "ex": "I think so.",
+    "exRu": "Я так думаю."
+   },
+   {
+    "w": "look",
+    "ipa": "/lʊk/",
+    "ru": "смотреть",
+    "ex": "Look at me.",
+    "exRu": "Посмотри на меня."
+   },
+   {
+    "w": "want",
+    "ipa": "/wɒnt/",
+    "ru": "хотеть",
+    "ex": "I want coffee.",
+    "exRu": "Я хочу кофе."
+   },
+   {
+    "w": "give",
+    "ipa": "/ɡɪv/",
+    "ru": "давать",
+    "ex": "Give me a pen.",
+    "exRu": "Дай мне ручку."
+   },
+   {
+    "w": "use",
+    "ipa": "/juːz/",
+    "ru": "использовать",
+    "ex": "Use this tool.",
+    "exRu": "Используй этот инструмент."
+   },
+   {
+    "w": "find",
+    "ipa": "/faɪnd/",
+    "ru": "находить",
+    "ex": "I can not find it.",
+    "exRu": "Я не могу это найти."
+   },
+   {
+    "w": "tell",
+    "ipa": "/tel/",
+    "ru": "рассказывать",
+    "ex": "Tell me a story.",
+    "exRu": "Расскажи мне историю."
+   },
+   {
+    "w": "ask",
+    "ipa": "/ɑːsk/",
+    "ru": "спрашивать",
+    "ex": "Ask a question.",
+    "exRu": "Задай вопрос."
+   },
+   {
+    "w": "work",
+    "ipa": "/wɜːk/",
+    "ru": "работать",
+    "ex": "I work here.",
+    "exRu": "Я работаю здесь."
+   },
+   {
+    "w": "need",
+    "ipa": "/niːd/",
+    "ru": "нуждаться",
+    "ex": "I need help.",
+    "exRu": "Мне нужна помощь."
+   },
+   {
+    "w": "feel",
+    "ipa": "/fiːl/",
+    "ru": "чувствовать",
+    "ex": "I feel good.",
+    "exRu": "Я чувствую себя хорошо."
+   },
+   {
+    "w": "become",
+    "ipa": "/bɪˈkʌm/",
+    "ru": "становиться",
+    "ex": "I want to become better.",
+    "exRu": "Я хочу стать лучше."
+   },
+   {
+    "w": "leave",
+    "ipa": "/liːv/",
+    "ru": "покидать, уезжать",
+    "ex": "We leave now.",
+    "exRu": "Мы уходим сейчас."
+   },
+   {
+    "w": "put",
+    "ipa": "/pʊt/",
+    "ru": "класть",
+    "ex": "Put it here.",
+    "exRu": "Положи это сюда."
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "День 3",
+  "theme": "Базовые прилагательные",
+  "phase": 1,
+  "words": [
+   {
+    "w": "good",
+    "ipa": "/ɡʊd/",
+    "ru": "хороший",
+    "ex": "This is good food.",
+    "exRu": "Это хорошая еда."
+   },
+   {
+    "w": "new",
+    "ipa": "/njuː/",
+    "ru": "новый",
+    "ex": "I have a new phone.",
+    "exRu": "У меня новый телефон."
+   },
+   {
+    "w": "first",
+    "ipa": "/fɜːst/",
+    "ru": "первый",
+    "ex": "She was first.",
+    "exRu": "Она была первой."
+   },
+   {
+    "w": "last",
+    "ipa": "/lɑːst/",
+    "ru": "последний",
+    "ex": "This is the last one.",
+    "exRu": "Это последний."
+   },
+   {
+    "w": "long",
+    "ipa": "/lɒŋ/",
+    "ru": "длинный, долгий",
+    "ex": "It is a long road.",
+    "exRu": "Это длинная дорога."
+   },
+   {
+    "w": "great",
+    "ipa": "/ɡreɪt/",
+    "ru": "отличный, великий",
+    "ex": "That is a great idea.",
+    "exRu": "Это отличная идея."
+   },
+   {
+    "w": "little",
+    "ipa": "/ˈlɪtl/",
+    "ru": "маленький",
+    "ex": "A little dog ran by.",
+    "exRu": "Пробежала маленькая собака."
+   },
+   {
+    "w": "own",
+    "ipa": "/əʊn/",
+    "ru": "собственный",
+    "ex": "I have my own room.",
+    "exRu": "У меня своя комната."
+   },
+   {
+    "w": "other",
+    "ipa": "/ˈʌðə(r)/",
+    "ru": "другой",
+    "ex": "Try the other door.",
+    "exRu": "Попробуй другую дверь."
+   },
+   {
+    "w": "old",
+    "ipa": "/əʊld/",
+    "ru": "старый",
+    "ex": "This is an old house.",
+    "exRu": "Это старый дом."
+   },
+   {
+    "w": "right",
+    "ipa": "/raɪt/",
+    "ru": "правильный, правый",
+    "ex": "You are right.",
+    "exRu": "Ты прав."
+   },
+   {
+    "w": "big",
+    "ipa": "/bɪɡ/",
+    "ru": "большой",
+    "ex": "He has a big car.",
+    "exRu": "У него большая машина."
+   },
+   {
+    "w": "high",
+    "ipa": "/haɪ/",
+    "ru": "высокий",
+    "ex": "The wall is high.",
+    "exRu": "Стена высокая."
+   },
+   {
+    "w": "small",
+    "ipa": "/smɔːl/",
+    "ru": "маленький",
+    "ex": "I want a small coffee.",
+    "exRu": "Я хочу маленький кофе."
+   },
+   {
+    "w": "large",
+    "ipa": "/lɑːdʒ/",
+    "ru": "большой, крупный",
+    "ex": "It is a large city.",
+    "exRu": "Это крупный город."
+   },
+   {
+    "w": "next",
+    "ipa": "/nekst/",
+    "ru": "следующий",
+    "ex": "See the next page.",
+    "exRu": "Смотри следующую страницу."
+   },
+   {
+    "w": "early",
+    "ipa": "/ˈɜːli/",
+    "ru": "ранний",
+    "ex": "I take an early bus.",
+    "exRu": "Я еду на раннем автобусе."
+   },
+   {
+    "w": "young",
+    "ipa": "/jʌŋ/",
+    "ru": "молодой",
+    "ex": "She is very young.",
+    "exRu": "Она очень молода."
+   },
+   {
+    "w": "important",
+    "ipa": "/ɪmˈpɔːtnt/",
+    "ru": "важный",
+    "ex": "This is an important day.",
+    "exRu": "Это важный день."
+   },
+   {
+    "w": "few",
+    "ipa": "/fjuː/",
+    "ru": "немного, мало",
+    "ex": "I have few friends.",
+    "exRu": "У меня мало друзей."
+   },
+   {
+    "w": "bad",
+    "ipa": "/bæd/",
+    "ru": "плохой",
+    "ex": "The weather is bad.",
+    "exRu": "Погода плохая."
+   },
+   {
+    "w": "same",
+    "ipa": "/seɪm/",
+    "ru": "тот же, одинаковый",
+    "ex": "We have the same bag.",
+    "exRu": "У нас одинаковые сумки."
+   },
+   {
+    "w": "able",
+    "ipa": "/ˈeɪbl/",
+    "ru": "способный",
+    "ex": "I am able to help.",
+    "exRu": "Я могу помочь."
+   },
+   {
+    "w": "free",
+    "ipa": "/friː/",
+    "ru": "свободный, бесплатный",
+    "ex": "The room is free.",
+    "exRu": "Комната свободна."
+   },
+   {
+    "w": "sure",
+    "ipa": "/ʃʊə(r)/",
+    "ru": "уверенный",
+    "ex": "I am sure.",
+    "exRu": "Я уверен."
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "День 4",
+  "theme": "Глаголы действия",
+  "phase": 1,
+  "words": [
+   {
+    "w": "call",
+    "ipa": "/kɔːl/",
+    "ru": "звонить, называть",
+    "ex": "Call me later.",
+    "exRu": "Позвони мне позже."
+   },
+   {
+    "w": "try",
+    "ipa": "/traɪ/",
+    "ru": "пытаться",
+    "ex": "Try again.",
+    "exRu": "Попробуй ещё раз."
+   },
+   {
+    "w": "mean",
+    "ipa": "/miːn/",
+    "ru": "значить",
+    "ex": "What does it mean?",
+    "exRu": "Что это значит?"
+   },
+   {
+    "w": "keep",
+    "ipa": "/kiːp/",
+    "ru": "держать, хранить",
+    "ex": "Keep the book.",
+    "exRu": "Оставь книгу себе."
+   },
+   {
+    "w": "let",
+    "ipa": "/let/",
+    "ru": "позволять",
+    "ex": "Let me try.",
+    "exRu": "Позволь мне попробовать."
+   },
+   {
+    "w": "begin",
+    "ipa": "/bɪˈɡɪn/",
+    "ru": "начинать",
+    "ex": "Let us begin.",
+    "exRu": "Давай начнём."
+   },
+   {
+    "w": "seem",
+    "ipa": "/siːm/",
+    "ru": "казаться",
+    "ex": "You seem tired.",
+    "exRu": "Ты кажешься усталым."
+   },
+   {
+    "w": "help",
+    "ipa": "/help/",
+    "ru": "помогать",
+    "ex": "Can you help me?",
+    "exRu": "Можешь мне помочь?"
+   },
+   {
+    "w": "talk",
+    "ipa": "/tɔːk/",
+    "ru": "разговаривать",
+    "ex": "We talk a lot.",
+    "exRu": "Мы много разговариваем."
+   },
+   {
+    "w": "turn",
+    "ipa": "/tɜːn/",
+    "ru": "поворачивать",
+    "ex": "Turn left.",
+    "exRu": "Поверни налево."
+   },
+   {
+    "w": "start",
+    "ipa": "/stɑːt/",
+    "ru": "начинать",
+    "ex": "Start now.",
+    "exRu": "Начинай сейчас."
+   },
+   {
+    "w": "show",
+    "ipa": "/ʃəʊ/",
+    "ru": "показывать",
+    "ex": "Show me the way.",
+    "exRu": "Покажи мне дорогу."
+   },
+   {
+    "w": "hear",
+    "ipa": "/hɪə(r)/",
+    "ru": "слышать",
+    "ex": "I can hear you.",
+    "exRu": "Я тебя слышу."
+   },
+   {
+    "w": "play",
+    "ipa": "/pleɪ/",
+    "ru": "играть",
+    "ex": "Children play here.",
+    "exRu": "Дети играют здесь."
+   },
+   {
+    "w": "run",
+    "ipa": "/rʌn/",
+    "ru": "бежать",
+    "ex": "I run every morning.",
+    "exRu": "Я бегаю каждое утро."
+   },
+   {
+    "w": "move",
+    "ipa": "/muːv/",
+    "ru": "двигать(ся)",
+    "ex": "Move the chair.",
+    "exRu": "Подвинь стул."
+   },
+   {
+    "w": "live",
+    "ipa": "/lɪv/",
+    "ru": "жить",
+    "ex": "I live here.",
+    "exRu": "Я живу здесь."
+   },
+   {
+    "w": "believe",
+    "ipa": "/bɪˈliːv/",
+    "ru": "верить",
+    "ex": "I believe you.",
+    "exRu": "Я тебе верю."
+   },
+   {
+    "w": "bring",
+    "ipa": "/brɪŋ/",
+    "ru": "приносить",
+    "ex": "Bring some water.",
+    "exRu": "Принеси воды."
+   },
+   {
+    "w": "write",
+    "ipa": "/raɪt/",
+    "ru": "писать",
+    "ex": "Write your name.",
+    "exRu": "Напиши своё имя."
+   },
+   {
+    "w": "sit",
+    "ipa": "/sɪt/",
+    "ru": "сидеть",
+    "ex": "Please sit down.",
+    "exRu": "Пожалуйста, садись."
+   },
+   {
+    "w": "stand",
+    "ipa": "/stænd/",
+    "ru": "стоять",
+    "ex": "Stand here.",
+    "exRu": "Стой здесь."
+   },
+   {
+    "w": "meet",
+    "ipa": "/miːt/",
+    "ru": "встречать",
+    "ex": "Let us meet today.",
+    "exRu": "Давай встретимся сегодня."
+   },
+   {
+    "w": "pay",
+    "ipa": "/peɪ/",
+    "ru": "платить",
+    "ex": "I will pay now.",
+    "exRu": "Я заплачу сейчас."
+   },
+   {
+    "w": "learn",
+    "ipa": "/lɜːn/",
+    "ru": "учить, узнавать",
+    "ex": "I learn English.",
+    "exRu": "Я учу английский."
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "День 5",
+  "theme": "Повседневные существительные",
+  "phase": 1,
+  "words": [
+   {
+    "w": "eye",
+    "ipa": "/aɪ/",
+    "ru": "глаз",
+    "ex": "My eye hurts.",
+    "exRu": "У меня болит глаз."
+   },
+   {
+    "w": "word",
+    "ipa": "/wɜːd/",
+    "ru": "слово",
+    "ex": "I know this word.",
+    "exRu": "Я знаю это слово."
+   },
+   {
+    "w": "business",
+    "ipa": "/ˈbɪznəs/",
+    "ru": "бизнес, дело",
+    "ex": "Business is good.",
+    "exRu": "Дела идут хорошо."
+   },
+   {
+    "w": "issue",
+    "ipa": "/ˈɪʃuː/",
+    "ru": "вопрос, проблема",
+    "ex": "We have an issue.",
+    "exRu": "У нас есть проблема."
+   },
+   {
+    "w": "side",
+    "ipa": "/saɪd/",
+    "ru": "сторона",
+    "ex": "Stand on this side.",
+    "exRu": "Встань на эту сторону."
+   },
+   {
+    "w": "kind",
+    "ipa": "/kaɪnd/",
+    "ru": "вид, тип",
+    "ex": "What kind of tea?",
+    "exRu": "Какой вид чая?"
+   },
+   {
+    "w": "head",
+    "ipa": "/hed/",
+    "ru": "голова",
+    "ex": "My head hurts.",
+    "exRu": "У меня болит голова."
+   },
+   {
+    "w": "house",
+    "ipa": "/haʊs/",
+    "ru": "дом",
+    "ex": "This is my house.",
+    "exRu": "Это мой дом."
+   },
+   {
+    "w": "service",
+    "ipa": "/ˈsɜːvɪs/",
+    "ru": "обслуживание, услуга",
+    "ex": "The service is slow.",
+    "exRu": "Обслуживание медленное."
+   },
+   {
+    "w": "friend",
+    "ipa": "/frend/",
+    "ru": "друг",
+    "ex": "He is my friend.",
+    "exRu": "Он мой друг."
+   },
+   {
+    "w": "father",
+    "ipa": "/ˈfɑːðə(r)/",
+    "ru": "отец",
+    "ex": "My father is tall.",
+    "exRu": "Мой отец высокий."
+   },
+   {
+    "w": "power",
+    "ipa": "/ˈpaʊə(r)/",
+    "ru": "сила, власть",
+    "ex": "Knowledge is power.",
+    "exRu": "Знание — сила."
+   },
+   {
+    "w": "hour",
+    "ipa": "/ˈaʊə(r)/",
+    "ru": "час",
+    "ex": "Wait one hour.",
+    "exRu": "Подожди один час."
+   },
+   {
+    "w": "game",
+    "ipa": "/ɡeɪm/",
+    "ru": "игра",
+    "ex": "Let us play a game.",
+    "exRu": "Давай сыграем в игру."
+   },
+   {
+    "w": "line",
+    "ipa": "/laɪn/",
+    "ru": "линия, очередь",
+    "ex": "Draw a line.",
+    "exRu": "Нарисуй линию."
+   },
+   {
+    "w": "end",
+    "ipa": "/end/",
+    "ru": "конец",
+    "ex": "The end is near.",
+    "exRu": "Конец близко."
+   },
+   {
+    "w": "member",
+    "ipa": "/ˈmembə(r)/",
+    "ru": "участник, член",
+    "ex": "She is a member.",
+    "exRu": "Она участница."
+   },
+   {
+    "w": "law",
+    "ipa": "/lɔː/",
+    "ru": "закон",
+    "ex": "It is the law.",
+    "exRu": "Это закон."
+   },
+   {
+    "w": "car",
+    "ipa": "/kɑː(r)/",
+    "ru": "машина",
+    "ex": "My car is red.",
+    "exRu": "Моя машина красная."
+   },
+   {
+    "w": "city",
+    "ipa": "/ˈsɪti/",
+    "ru": "город",
+    "ex": "I live in a city.",
+    "exRu": "Я живу в городе."
+   },
+   {
+    "w": "name",
+    "ipa": "/neɪm/",
+    "ru": "имя",
+    "ex": "What is your name?",
+    "exRu": "Как тебя зовут?"
+   },
+   {
+    "w": "team",
+    "ipa": "/tiːm/",
+    "ru": "команда",
+    "ex": "We are a team.",
+    "exRu": "Мы команда."
+   },
+   {
+    "w": "minute",
+    "ipa": "/ˈmɪnɪt/",
+    "ru": "минута",
+    "ex": "Wait a minute.",
+    "exRu": "Подожди минуту."
+   },
+   {
+    "w": "money",
+    "ipa": "/ˈmʌni/",
+    "ru": "деньги",
+    "ex": "I need money.",
+    "exRu": "Мне нужны деньги."
+   },
+   {
+    "w": "room",
+    "ipa": "/ruːm/",
+    "ru": "комната",
+    "ex": "The room is big.",
+    "exRu": "Комната большая."
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "День 6",
+  "theme": "Наречия и связки",
+  "phase": 1,
+  "words": [
+   {
+    "w": "more",
+    "ipa": "/mɔː(r)/",
+    "ru": "больше",
+    "ex": "I need more time.",
+    "exRu": "Мне нужно больше времени."
+   },
+   {
+    "w": "also",
+    "ipa": "/ˈɔːlsəʊ/",
+    "ru": "также",
+    "ex": "I also like tea.",
+    "exRu": "Я также люблю чай."
+   },
+   {
+    "w": "very",
+    "ipa": "/ˈveri/",
+    "ru": "очень",
+    "ex": "It is very hot.",
+    "exRu": "Очень жарко."
+   },
+   {
+    "w": "well",
+    "ipa": "/wel/",
+    "ru": "хорошо",
+    "ex": "She sings well.",
+    "exRu": "Она хорошо поёт."
+   },
+   {
+    "w": "only",
+    "ipa": "/ˈəʊnli/",
+    "ru": "только",
+    "ex": "I have only one.",
+    "exRu": "У меня только один."
+   },
+   {
+    "w": "just",
+    "ipa": "/dʒʌst/",
+    "ru": "просто, только что",
+    "ex": "I just arrived.",
+    "exRu": "Я только что пришёл."
+   },
+   {
+    "w": "even",
+    "ipa": "/ˈiːvn/",
+    "ru": "даже",
+    "ex": "Even he knows.",
+    "exRu": "Даже он знает."
+   },
+   {
+    "w": "back",
+    "ipa": "/bæk/",
+    "ru": "назад, обратно",
+    "ex": "Come back soon.",
+    "exRu": "Возвращайся скоро."
+   },
+   {
+    "w": "still",
+    "ipa": "/stɪl/",
+    "ru": "всё ещё",
+    "ex": "I am still here.",
+    "exRu": "Я всё ещё здесь."
+   },
+   {
+    "w": "around",
+    "ipa": "/əˈraʊnd/",
+    "ru": "вокруг",
+    "ex": "Look around.",
+    "exRu": "Оглянись вокруг."
+   },
+   {
+    "w": "however",
+    "ipa": "/haʊˈevə(r)/",
+    "ru": "однако",
+    "ex": "It is hard; however, I try.",
+    "exRu": "Это трудно; однако я пытаюсь."
+   },
+   {
+    "w": "here",
+    "ipa": "/hɪə(r)/",
+    "ru": "здесь",
+    "ex": "Come here.",
+    "exRu": "Иди сюда."
+   },
+   {
+    "w": "where",
+    "ipa": "/weə(r)/",
+    "ru": "где",
+    "ex": "Where are you?",
+    "exRu": "Где ты?"
+   },
+   {
+    "w": "much",
+    "ipa": "/mʌtʃ/",
+    "ru": "много",
+    "ex": "Not much money.",
+    "exRu": "Немного денег."
+   },
+   {
+    "w": "before",
+    "ipa": "/bɪˈfɔː(r)/",
+    "ru": "до, перед",
+    "ex": "Call before noon.",
+    "exRu": "Позвони до полудня."
+   },
+   {
+    "w": "too",
+    "ipa": "/tuː/",
+    "ru": "тоже, слишком",
+    "ex": "It is too late.",
+    "exRu": "Слишком поздно."
+   },
+   {
+    "w": "between",
+    "ipa": "/bɪˈtwiːn/",
+    "ru": "между",
+    "ex": "Sit between us.",
+    "exRu": "Сядь между нами."
+   },
+   {
+    "w": "through",
+    "ipa": "/θruː/",
+    "ru": "через, сквозь",
+    "ex": "Walk through the park.",
+    "exRu": "Пройди через парк."
+   },
+   {
+    "w": "both",
+    "ipa": "/bəʊθ/",
+    "ru": "оба",
+    "ex": "Both are good.",
+    "exRu": "Оба хороши."
+   },
+   {
+    "w": "often",
+    "ipa": "/ˈɒfn/",
+    "ru": "часто",
+    "ex": "I often read.",
+    "exRu": "Я часто читаю."
+   },
+   {
+    "w": "never",
+    "ipa": "/ˈnevə(r)/",
+    "ru": "никогда",
+    "ex": "I never lie.",
+    "exRu": "Я никогда не лгу."
+   },
+   {
+    "w": "always",
+    "ipa": "/ˈɔːlweɪz/",
+    "ru": "всегда",
+    "ex": "She is always late.",
+    "exRu": "Она всегда опаздывает."
+   },
+   {
+    "w": "really",
+    "ipa": "/ˈrɪəli/",
+    "ru": "действительно",
+    "ex": "I really like it.",
+    "exRu": "Мне это действительно нравится."
+   },
+   {
+    "w": "away",
+    "ipa": "/əˈweɪ/",
+    "ru": "прочь, далеко",
+    "ex": "Go away.",
+    "exRu": "Уходи."
+   },
+   {
+    "w": "again",
+    "ipa": "/əˈɡen/",
+    "ru": "снова",
+    "ex": "Do it again.",
+    "exRu": "Сделай это снова."
+   }
+  ]
+ }
+]
